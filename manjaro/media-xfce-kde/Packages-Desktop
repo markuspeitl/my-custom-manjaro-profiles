@@ -380,7 +380,9 @@ octave #matlab clone
 geogebra #Dynamic math with visualization
 texmacs #free scientific editing platform WYSIWYG tex editor
 kdiff3 #compare files
-opencv
+opencv #image processing lib
+alacritty #terminal emulator
+pantheon-shortcut-overlay
 
 #Electronics PCB
 kicad
@@ -446,6 +448,7 @@ csound #sound processing
 csound-doc
 csoundqt #csound frontend
 hydrogen #drum machine + sequencer
+helm-synth
 ecasound #cmd line audio proc
 sox #cmd line audio proc
 sweep #audacitiy alternative
@@ -471,6 +474,9 @@ swh-plugins
 tap-plugins
 zam-plugins
 g2reverb
+#portaudio #audio io
+#python-pyaudio +python bindings for portaudio
+#stk #synthesis toolkit
 
 #alsa-plugins-vdownmix #surround downmixing virtual surround
 
@@ -482,6 +488,7 @@ cmus #(terminal music player)
 #--spotify
 elisa #(music player)
 soundconverter
+clementine
 
 ## UTIL_PACK  -------------------------------
 xdotool #(execute keyboard shortcuts via bash)
@@ -547,6 +554,18 @@ libreoffice
 gnucash
 calibre #(ebook management)
 
+#markdown
+retext
+ghostwriter
+hedgedoc
+m2r
+marker
+mdbook
+mdcat #terminal
+mdp #terminal
+notes-up
+
+
 #--fman
 #--wekan (todo list kanban)
 
@@ -557,7 +576,9 @@ calibre #(ebook management)
 #yay -Syu reaper
 #natron-bin #(animation/effects)
 #skypeforlinux-stable-bin
-#joplin
+#joplin #cli
+#joplin-desktop
+#joplin-appimage
 #simplenote-electron-bin
 #slack-desktop
 #shutter #(screenshot)
@@ -578,3 +599,14 @@ calibre #(ebook management)
 #postman-bin
 #librepcb #pcb board
 #gnaural #binaural beats generator
+#linvst
+#linvst-bin
+#linvst3
+#tuxguitar #guitar tab editor
+#cecilia #sound designer signal processing
+#non-daw-git
+#qownnotes
+#haroopad #markdown
+#sublime-text-3
+#zettlr
+#zettlr-bin
