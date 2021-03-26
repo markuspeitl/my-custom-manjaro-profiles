@@ -380,6 +380,10 @@ octave #matlab clone
 geogebra #Dynamic math with visualization
 texmacs #free scientific editing platform WYSIWYG tex editor
 kdiff3 #compare files
+opencv
+
+#Electronics PCB
+kicad
 
 ## Graphics Pack -------------------------------
 
@@ -410,8 +414,12 @@ grafx2 #(pixelart painting)
 #Painting/ Drawing
 krita
 pinta
+mypaint
+mypaint-brushes
 inkscape
 gimp
+kolourpaint #mspaint clone
+mtpaint #mspaint clone
 
 gluegriffon #(web editor, epub editor, prototyping)
 
@@ -431,6 +439,40 @@ lmms
 audacity
 qtractor
 #--ocenaudio
+pd #audio component synth programming
+chuck #generative audio programming
+supercollider #generative audio programming
+csound #sound processing
+csound-doc
+csoundqt #csound frontend
+hydrogen #drum machine + sequencer
+ecasound #cmd line audio proc
+sox #cmd line audio proc
+sweep #audacitiy alternative
+muse #DAW
+musepack-tools
+musescore
+milkytracker #midi sequencer
+kwave
+linuxsampler
+jsampler #linuxsampler GUI
+qsampler #linuxsampler GUI
+amsynth #synth
+rosegarden #midi audio sequencer
+openal #similar than opengl but for audio
+
+ladspa
+amb-plugins # ardour ambisonics plugins
+caps
+cmt
+lsp-plugins
+rev-plugins
+swh-plugins
+tap-plugins
+zam-plugins
+g2reverb
+
+#alsa-plugins-vdownmix #surround downmixing virtual surround
 
 #Audio players:
 audacious #(music player)
@@ -534,3 +576,5 @@ calibre #(ebook management)
 #storyboarder-appimage
 #grpcui
 #postman-bin
+#librepcb #pcb board
+#gnaural #binaural beats generator
