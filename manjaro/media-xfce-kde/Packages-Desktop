@@ -345,6 +345,8 @@ manjaro-browser-settings
 >extra xdg-desktop-portal
 >extra xdg-desktop-portal-kde
 
+
+
 ## CUSTOM Section ---------------------------------------------------------------
 ## Instructions: https://wiki.manjaro.org/index.php?title=Build_Manjaro_ISOs_with_buildiso
 
@@ -423,7 +425,7 @@ gimp
 kolourpaint #mspaint clone
 mtpaint #mspaint clone
 
-gluegriffon #(web editor, epub editor, prototyping)
+bluegriffon #(web editor, epub editor, prototyping)
 
 ## AUDIO_PACK  -------------------------------
 
@@ -483,7 +485,6 @@ g2reverb
 #Audio players:
 audacious #(music player)
 audacious-plugins
-amarok #(music player)
 cmus #(terminal music player)
 #--spotify
 elisa #(music player)
@@ -534,7 +535,7 @@ torbrowser-launcher
 #--chrome
 #--chromium
 midori
-qbittorent
+qbittorrent
 
 #GAMING_PACK:
 #playonlinux
@@ -546,8 +547,6 @@ qbittorent
 #--signal
 #--zoom
 thunderbird
-franz
-ferdi
 
 #OFFICE PACK:
 libreoffice
@@ -566,11 +565,10 @@ mdp #terminal
 notes-up
 
 
-#--fman
-#--wekan (todo list kanban)
+virtualbox-guest-utils #for testing in virtual machine and resizing
 
 ## ---- AUR -> figure out how to install into there
-#yay
+yay
 #yay -Syu miniconda3
 #yay -Syu duplicati-latest
 #yay -Syu reaper
@@ -610,3 +608,7 @@ notes-up
 #sublime-text-3
 #zettlr
 #zettlr-bin
+#amarok #(music player)
+#amarok-git #(music player)
+#franz #combined messaging client
+#ferdi #combined messaging client
