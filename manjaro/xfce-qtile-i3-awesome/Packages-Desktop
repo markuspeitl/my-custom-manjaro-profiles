@@ -504,7 +504,7 @@ notes-up
 #BACKUP PACK:
 timeshift #(rsync frontend)
 rsync #(incremental updates with hardlinks -> no delta)
-rdiff-Backup #(delta updates)
+rdiff-backup #(delta updates)
 kup #(bup frontend -> git pack based delta updates)
 
 #TESTING PACKAGES:

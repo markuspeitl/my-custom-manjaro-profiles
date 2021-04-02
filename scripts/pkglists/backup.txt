@@ -1,0 +1,5 @@
+#BACKUP PACK:
+timeshift #(rsync frontend)
+rsync #(incremental updates with hardlinks -> no delta)
+rdiff-backup #(delta updates)
+#kup #(bup frontend -> git pack based delta updates) - requires bup to be installed

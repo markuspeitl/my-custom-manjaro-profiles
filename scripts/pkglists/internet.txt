@@ -1,0 +1,9 @@
+##INTERNET_PACK:
+opera
+#firefox
+firefox-developer-edition
+torbrowser-launcher
+#--chrome
+#--chromium
+midori
+qbittorrent

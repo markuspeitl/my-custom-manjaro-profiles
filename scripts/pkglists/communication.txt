@@ -1,0 +1,5 @@
+#COMMUNICATION
+#discord
+#--signal
+#--zoom
+thunderbird

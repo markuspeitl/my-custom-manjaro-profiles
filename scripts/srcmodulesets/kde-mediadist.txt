@@ -1,0 +1,7 @@
+kde
+kde-settings
+common
+dev
+audio-consumption
+audio-production
+image-editing

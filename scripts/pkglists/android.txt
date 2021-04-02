@@ -1,0 +1,3 @@
+#ANDROID PACK
+#--adb emulators scrpy androidstudio kdeconnect
+#--scrpy

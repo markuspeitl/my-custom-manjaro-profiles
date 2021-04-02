@@ -1,0 +1,6 @@
+##COMMON_PACK:
+git
+micro
+vim
+#emacs
+yay #AUR helper

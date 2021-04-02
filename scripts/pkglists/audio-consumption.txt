@@ -1,0 +1,8 @@
+#Audio players:
+audacious #(music player)
+audacious-plugins
+cmus #(terminal music player)
+#--spotify
+elisa #(music player)
+soundconverter
+clementine

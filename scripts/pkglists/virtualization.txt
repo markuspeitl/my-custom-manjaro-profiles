@@ -1,0 +1,7 @@
+##VIRTUALIZATION_PACK:
+#qemu
+#virtualbox
+#wine
+#EMULATORS??
+retroarch #(gaming console emulator)
+mednafen #(gaming console emulator)

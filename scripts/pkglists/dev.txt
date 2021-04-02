@@ -1,0 +1,29 @@
+## DEV_PACK:
+vscode
+atom
+notepadqq
+rsync
+zsh
+#gcc
+filezilla
+geany
+#--sublime
+#--brackets
+retext #(markdown editor)
+#python
+#nodejs
+nvm
+yay #(AUR package installer manager)
+qutebrowser #(browser python keyboar based)
+lyx #(latex editor)
+texmaker #(latex editor)
+testdisk #(del data recovery)
+bluefish #(WYSIWYG html)
+clonezilla
+octave #matlab clone
+geogebra #Dynamic math with visualization
+texmacs #free scientific editing platform WYSIWYG tex editor
+kdiff3 #compare files
+opencv #image processing lib
+alacritty #terminal emulator
+pantheon-shortcut-overlay

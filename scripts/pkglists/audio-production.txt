@@ -1,0 +1,56 @@
+## AUDIO_PACK  -------------------------------
+
+#jack
+#qjackctl
+#pulseaudio
+#pipewire
+#pulseeffects
+#--alsamixergui
+
+#Audio recorders/ DAWs:
+#--reaper
+ardour
+lmms
+audacity
+qtractor
+#--ocenaudio
+pd #audio component synth programming
+chuck #generative audio programming
+supercollider #generative audio programming
+csound #sound processing
+csound-doc
+csoundqt #csound frontend
+hydrogen #drum machine + sequencer
+helm-synth
+ecasound #cmd line audio proc
+sox #cmd line audio proc
+sweep #audacitiy alternative
+muse #DAW
+musepack-tools
+musescore
+milkytracker #midi sequencer
+kwave
+linuxsampler
+jsampler #linuxsampler GUI
+qsampler #linuxsampler GUI
+amsynth #synth
+rosegarden #midi audio sequencer
+openal #similar than opengl but for audio
+
+#Audio Plugins
+ladspa
+amb-plugins # ardour ambisonics plugins
+caps
+cmt
+lsp-plugins
+rev-plugins
+swh-plugins
+tap-plugins
+zam-plugins
+g2reverb
+#portaudio #audio io
+#python-pyaudio +python bindings for portaudio
+#stk #synthesis toolkit
+
+#alsa-plugins-vdownmix #surround downmixing virtual surround
+

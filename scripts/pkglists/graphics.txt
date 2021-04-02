@@ -1,0 +1,11 @@
+#Painting/ Drawing
+krita
+pinta
+mypaint
+mypaint-brushes
+inkscape
+gimp
+kolourpaint #mspaint clone
+mtpaint #mspaint clone
+
+bluegriffon #(web editor, epub editor, prototyping)

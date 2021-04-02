@@ -1,0 +1,2 @@
+#TESTING PACKAGES:
+virtualbox-guest-utils #for testing in virtual machine and resizing

@@ -1,0 +1,7 @@
+## IMAGE_PACK:
+digikam
+rawtherapee
+darktable
+gwenview
+nomacs
+dia #(diagram creation)

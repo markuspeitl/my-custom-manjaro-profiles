@@ -1,0 +1,24 @@
+## UTIL_PACK  -------------------------------
+xdotool #(execute keyboard shortcuts via bash)
+nnn #(file manager)
+thunar #(file manager)
+dolphin #(file manager)
+#nautilus #(file manager)
+#konqueror #(file manager)
+timeshift #(Backup)
+terminator
+stacer
+neofetch #system info
+deepin-reader
+scribus
+nextcloud
+nextcloud-client
+celestia
+meld #(Compare files and folders)
+
+flameshot
+#--kazam
+simplescreenrecorder
+bitwarden #(Password manager)
+keepass #(Password manager)
+keepass-plugin-keeagent #(Password manager ssh plugin)

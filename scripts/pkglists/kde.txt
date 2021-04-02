@@ -1,0 +1,28 @@
+## KDE Section ---------------------------------------------------------------
+
+## KDE Applications
+dolphin
+dolphin-plugins
+kdeconnect
+okular
+#>extra kdenlive
+konsole
+
+## Optional dependencies for kdeconnect
+sshfs  # remote filesystem browser
+
+## Optional dependencies for kdenlive
+#>extra recordmydesktop  # for screen capture
+#>extra movit            # for GPU video processing
+
+##Applications
+yakuake #(konsole drop down terminal)
+systemd-kcm
+
+## Qtile Section ---------------------------------------------------------------
+qtile
+## Awesome Section ---------------------------------------------------------------
+awesome
+## I3 Section ---------------------------------------------------------------
+i3
+#manjaro-i3-settings

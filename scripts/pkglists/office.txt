@@ -1,0 +1,4 @@
+#OFFICE PACK:
+libreoffice
+gnucash
+calibre #(ebook management)
